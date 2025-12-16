@@ -3,14 +3,22 @@
 <!--
 **vidhi28vaghela05/vidhi28vaghela05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi 👋, I'm vidhi vaghela
+
+👨‍💻 About Me
+
+💻 I am a Frontend Developer
+🏫 College: Sutex bank collage computer application & science
+🌱 Currently learning React
+🎯 Goal: Become a Full-Stack Developer
+🎯 Hobby: Coding / Reading / Music / Sports
+📫 Email: vidhi28vaghela05@gmail.com
+📍 State: Your State
+🛠️ Skills
+
+Programming Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: React, Bootstrap
+Tools & Platforms: Git, GitHub, VS Code
+⭐ Thank you for visiting my repository!
